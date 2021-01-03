@@ -10,7 +10,7 @@
 
 ### 并发
 
-- go开启两个线程计算两个数组的和
+- go开启两个线程计算两个数组的和 https://github.com/CodeShowZz/use-go-to-solve-problem/blob/master/concurrency/multi-go-routine-get-sum/main.go
 
 ### 应用
 
