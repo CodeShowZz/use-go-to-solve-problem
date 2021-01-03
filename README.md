@@ -14,7 +14,7 @@
 
 ### 应用
 
--[使用go编写一个短链接服务](https://github.com/CodeShowZz/use-go-to-solve-problem/blob/master/app/shorturl)
+- [使用go编写一个短链接服务](https://github.com/CodeShowZz/use-go-to-solve-problem/blob/master/app/shorturl)
 
 ### 数据库
 
