@@ -42,7 +42,7 @@ func (stack *ResizingArrayStack) pop() string {
 }
 
 func main() {
-	stack := ResizingArrayStack{[]string{"a"}, 0}
+	stack := ResizingArrayStack{[]string{""}, 0}
 	stack.push("a")
 	stack.push("b")
 	stack.push("c")
