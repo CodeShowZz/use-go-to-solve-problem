@@ -46,8 +46,8 @@ func main() {
 	stack.push("a")
 	stack.push("b")
 	stack.push("c")
-	fmt.Println(stack.size());
-	temp := stack.pop();
-	fmt.Println(temp);
-	fmt.Println(stack.size());
+	fmt.Println(stack.size())
+	temp := stack.pop()
+	fmt.Println(temp)
+	fmt.Println(stack.size())
 }
